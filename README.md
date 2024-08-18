@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: ()
-- Live Site URL: ()
+- Solution URL: (https://www.frontendmentor.io/solutions/responsive-3-column-card-1UhUrQo9ul)
+- Live Site URL: (https://jacobwwarner-three-col-card.netlify.app/)
 
 ## My process
 
